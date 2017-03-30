@@ -1,0 +1,5 @@
+D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.dll
+D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.dll
+D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache

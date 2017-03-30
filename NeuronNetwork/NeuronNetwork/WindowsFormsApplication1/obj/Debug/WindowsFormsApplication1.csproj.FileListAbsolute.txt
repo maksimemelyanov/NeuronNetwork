@@ -1,0 +1,11 @@
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\NeuronNetwork.dll
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\NeuronNetwork.pdb
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
