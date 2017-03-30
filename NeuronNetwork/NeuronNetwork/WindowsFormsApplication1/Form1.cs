@@ -447,6 +447,7 @@ namespace WindowsFormsApplication1
                 listBox2.Items.Clear();
                 listBox2.Items.AddRange(categories.ToArray());
                 UpdateInfo();
+                numericUpDown1.Value = n.Layers.Count - 2;
             }
             
         }
