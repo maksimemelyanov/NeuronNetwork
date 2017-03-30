@@ -9,3 +9,14 @@ D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\Wind
 D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Documents\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\NeuronNetwork.dll
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\bin\Debug\NeuronNetwork.pdb
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

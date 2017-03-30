@@ -3,3 +3,8 @@ D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.p
 D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.dll
 D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
 D:\Documents\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.dll
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.dll
+C:\Users\Максим Емельянов\Desktop\NeuronNetwork\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
