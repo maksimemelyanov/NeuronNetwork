@@ -16,10 +16,6 @@ namespace NeuronNetwork
         /// Список распознаваемых категорий
         /// </summary>
         public List<string> Categories { get; protected set; }
-        //Func<double, double> StartActivation = new Func<double, double>(x=>x);
-        //Func<double, double> Activation = new Func<double, double>(x => x);
-        //Func<double, double> dStartActivation = new Func<double, double>(x => x);
-        //Func<double, double> dActivation = new Func<double, double>(x => x);
 
         /// <summary>
         /// Функция активации для начальных нейронов

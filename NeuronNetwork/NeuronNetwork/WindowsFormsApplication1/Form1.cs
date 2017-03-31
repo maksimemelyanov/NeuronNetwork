@@ -321,7 +321,9 @@ namespace WindowsFormsApplication1
             st.Stop();
             long time = st.ElapsedMilliseconds;
             time = time / 1000;
-            MessageBox.Show("Обучение выполнено за " + time + " сек.", "Обучение окончено");
+            MessageBox.Show("Обучение выполнено за " + time + 
+                " сек.\n Размер выборки: " + inputs.Count + 
+                "\nКоличество эпох: " + (int)numericUpDown2.Value, "Обучение окончено");
 
         }
 
@@ -352,9 +354,12 @@ namespace WindowsFormsApplication1
                 dataGridView2.Rows.Add(dgvr);
             }
 
-
+            int count = 0;
+            Stopwatch st = new Stopwatch();
+            st.Restart();
             foreach (DataGridViewRow d in dataGridView2.Rows)
             {
+
                 if (d.Cells[0].Value != null)
                 {
                     Bitmap b = new Bitmap(d.Cells[0].Value.ToString());
@@ -369,8 +374,15 @@ namespace WindowsFormsApplication1
                             c = r;
                     }
                     d.Cells[1].Value = categories[c];
+                    count ++;
                 }
             }
+            st.Stop();
+            long time = st.ElapsedMilliseconds;
+            long time1 = 0;
+            if (count>0)
+                time1 = time/count;
+            MessageBox.Show("Время прогона: "+time+"мс\nОбъем тестовой выборки: "+count+"\nСреднее время обработки одного изображения: "+time1+"мс","Тест окончен!");
         }
 
         private void button13_Click(object sender, EventArgs e)
